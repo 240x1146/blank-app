@@ -1,2 +1,3 @@
-supabase
-streamlit-supabase-connector
+SUPABASE_URL = "https://kjlxlxvcdqsxoyzqntdr.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtqbHhseHZjZHFzeG95enFudGRyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjkzNDI1OTQsImV4cCI6MjA4NDkxODU5NH0.A5xUYu0fu9joRvUornHOc6coWOXp1D8_uPqUaVwEZZc"
+
