@@ -3,8 +3,10 @@ from supabase import create_client, Client
 
 # --- 1. Supabase 接続設定 ---
 # ここに直接URLを書くとエラーになりやすいため、Secretsから読み込みます
-url: str = st.secrets["SUPABASE_URL"]
-key: str = st.secrets["SUPABASE_KEY"]
+url: str = st.secrets["https://kjlxlxvcdqsxoyzqntdr.supabase.co"]
+key: str = st.secrets["eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtqbHhseHZjZHFzeG95enFudGRyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjkzNDI1OTQsImV4cCI6MjA4NDkxODU5NH0.A5xUYu0fu9joRvUornHOc6coWOXp1D8_uPqUaVwEZZc"
+
+]
 supabase: Client = create_client(url, key)
 
 st.title("💪 筋トレ記録アプリ（腹筋カウンター）")
