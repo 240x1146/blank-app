@@ -1,7 +1,7 @@
 import streamlit as st
 from supabase import create_client, Client
 
-# --- 接続設定（名前だけ呼ぶ） ---
+# --- 接続設定（名前で呼び出す） ---
 url: str = st.secrets["SUPABASE_URL"]
 key: str = st.secrets["SUPABASE_KEY"]
 supabase: Client = create_client(url, key)
