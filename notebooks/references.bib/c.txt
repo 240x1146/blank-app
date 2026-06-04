@@ -1,0 +1,42 @@
+%0 Journal Article
+%T MRI-Extracellular Volume Fraction Versus Histological Amyloid Load in Cardiac Amyloidosis: The Importance of T2 Mapping
+%V 18
+%N 5
+%P e017427
+%X BACKGROUND: Magnetic resonance imaging (MRI)-derived myocardial extracellular volume fraction (ECV) is elevated in the presence of fibrosis, amyloid deposition, inflammation, and edema. In patients with cardiac amyloidosis and prolonged T2 due to concomitant inflammation or edema, MRI-ECV may not correctly reflect histological amyloid load. The authors sought to determine whether MRI-ECV can accurately reflect histological amyloid load in 2 groups of patients with wild-type transthyretin amyloid cardiomyopathy (ATTRwt-CM), with and without T2 prolongation.
+METHODS: This retrospective study included consecutive patients with ATTRwt-CM who underwent endomyocardial biopsy and cardiac MRI from March 2017 to October 2021 for initial evaluation of ATTRwt-CM. We measured MRI-ECV and T2, and evaluated correlation between MRI-ECV and amyloid load from endomyocardial biopsy by means of Pearson correlation analysis.
+RESULTS: Of 44 patients (mean age, 75±6 years [SD]; 40 men), 24 showed T2 prolongation (T2≥50 milliseconds). All specimens obtained by endomyocardial biopsy were suitable for analysis. The interval between endomyocardial biopsy and cardiac MRI examination was a median of 3 days (interquartile range, 2-4). In the absence of T2 prolongation due to increased water content, MRI-ECV and amyloid load showed a moderately significant correlation (Spearman ρ=0.50, P=0.03). However, in the presence of T2 prolongation, there was no significant correlation between MRI-ECV and amyloid load (Spearman ρ=-0.05, P=0.83).
+CONCLUSIONS: In patients with ATTRwt-CM and prolonged T2, MRI-ECV did not accurately reflect histological amyloid load. Our findings underscore the need for a multiparametric imaging approach, combining both ECV and T2 mapping, to better characterize myocardial tissue in patients with ATTRwt-CM, and further prospective research in larger and more diverse cohorts is needed to validate our results.
+%G eng
+%J Circulation. Cardiovascular Imaging
+%A Kidoh, Masafumi
+%A Oda, Seitaro
+%A Takashio, Seiji
+%A Morioka, Mami
+%A Kuyama, Naoto
+%A Oguni, Tetsuya
+%A Nakaura, Takeshi
+%A Nagayama, Yasunori
+%A Izumiya, Yasuhiro
+%A Tsujita, Kenichi
+%A Hirai, Toshinori
+%D 2025-05
+%K Aged
+Aged, 80 and over
+Amyloid Neuropathies, Familial
+biopsy
+Biopsy
+Cardiomyopathies
+edema
+Female
+fibrosis
+Humans
+inflammation
+Magnetic Resonance Imaging
+Magnetic Resonance Imaging, Cine
+Male
+Myocardium
+prealbumin
+Predictive Value of Tests
+Retrospective Studies
+

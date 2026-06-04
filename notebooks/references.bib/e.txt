@@ -1,0 +1,33 @@
+%0 Journal Article
+%T Large Language Models with Vision on Diagnostic Radiology Board Exam Style Questions
+%V 32
+%N 5
+%P 3096-3102
+%U https://www.sciencedirect.com/science/article/pii/S1076633224008730
+%X Rationale and Objectives
+The expansion of large language models to process images offers new avenues for application in radiology. This study aims to assess the multimodal capabilities of contemporary large language models, which allow analysis of image inputs in addition to textual data, on radiology board-style examination questions with images.
+Materials and Methods
+280 questions were retrospectively selected from the AuntMinnie public test bank. The test questions were converted into three formats of prompts; (1) Multimodal, (2) Image-only, and (3) Text-only input. Three models, GPT-4V, Gemini 1.5 Pro, and Claude 3.5 Sonnet, were evaluated using these prompts. The Cochran Q test and pairwise McNemar test were used to compare performances between prompt formats and models.
+Results
+No difference was found for the performance in terms of % correct answers between the text, image, and multimodal prompt formats for GPT-4V (54%, 52%, and 57%, respectively; p = .31) and Gemini 1.5 Pro (53%, 54%, and 57%, respectively; p = .53). For Claude 3.5 Sonnet, the image input (48%) significantly underperformed compared to the text input (63%, p < .001) and the multimodal input (66%, p < .001), but no difference was found between the text and multimodal inputs (p = .29). Claude significantly outperformed GPT and Gemini in the text and multimodal formats (p < .01).
+Conclusion
+Vision-capable large language models cannot effectively use images to increase performance on radiology board-style examination questions. When using textual data alone, Claude 3.5 Sonnet outperforms GPT-4V and Gemini 1.5 Pro, highlighting the advancements in the field and its potential for use in further research.
+%J Academic Radiology
+%A Sun, Shawn H.
+%A Chen, Kasha
+%A Anavim, Samuel
+%A Phillipi, Michael
+%A Yeh, Leslie
+%A Huynh, Kenneth
+%A Cortes, Gillean
+%A Tran, Julia
+%A Tran, Mark
+%A Yaghmai, Vahid
+%A Houshyar, Roozbeh
+%D 2025-05-01
+%K Artificial Intelligence
+Assessment
+Large Language Models
+Medical Education
+Multiple-Choice Questions
+

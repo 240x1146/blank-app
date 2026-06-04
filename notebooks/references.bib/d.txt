@@ -1,0 +1,17 @@
+%0 Journal Article
+%T Llama 3 Challenges Proprietary State-of-the-Art Large Language Models                     in Radiology Board–style Examination Questions
+%V 312
+%N 2
+%I Radiological Society of North America
+%P e241191
+%U https://pubs.rsna.org/doi/10.1148/radiol.241191
+%J Radiology
+%A Adams, Lisa C.
+%A Truhn, Daniel
+%A Busch, Felix
+%A Dorfner, Felix
+%A Nawabi, Jawed
+%A Makowski, Marcus R.
+%A Bressem, Keno K.
+%D 2024-08
+

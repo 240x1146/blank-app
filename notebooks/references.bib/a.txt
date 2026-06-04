@@ -1,0 +1,35 @@
+%0 Journal Article
+%T Performance of Multimodal Large Language Models in Japanese Diagnostic Radiology Board Examinations (2021-2023)
+%V 32
+%N 5
+%P 2394-2401
+%U https://www.sciencedirect.com/science/article/pii/S1076633224008195
+%X Rationale and Objectives
+To evaluate the performance of various multimodal large language models (LLMs) in the Japanese Diagnostic Radiology Board Examinations (JDRBE) both with and without images.
+Materials and Methods
+Five multimodal LLMs—GPT-4o, Claude 3 Opus, GPT-4 Vision, Gemini Flash 1.5, and Gemini Pro 1.5—were tested using questions from the JDRBE from 2021 to 2023. The models’ performances were assessed in two conditions: with images and without images. Accuracy rates were calculated for each model, both overall and within specific subspecialties, including Abdominal and Pelvic Radiology, Musculoskeletal and Breast Imaging, Neuroradiology and Head and Neck Imaging, Nuclear Medicine, and Thoracic and Cardiac Radiology.
+Results
+The average accuracy rates of the LLMs ranged from 30.21% to 45.00%, with GPT-4o achieving the highest (45.00%). Claude 3 Opus performed best without images (45.83%), while the addition of images did not significantly improve accuracy for any model. Performance varied across subspecialties, with GPT-4o excelling in ”Other” (65.63%) and Claude 3 Opus in Neuroradiology and Head and Neck Imaging (55.56%). Importantly, none of the models surpassed the passing threshold of 60%.
+Conclusion
+Our findings demonstrate that multimodal LLMs exhibit a range of accuracy in JDRBE, with GPT-4o and Claude 3 Opus showing the highest overall performance. However, the addition of images did not significantly improve accuracy for any model.
+Summary
+Multimodal LLMs are a very promising tool in the field of radiology. However, our study shows that while there are some promising results, their ability to evaluate radiological medical images is currently limited. Further development seems necessary before they can be used routinely.
+Key Points
+Multimodal LLMs show varying accuracy (30.21–45.83%) on Japanese diagnostic radiology board examinations. Adding images did not significantly improve multimodal LLM performance, and significantly decreased accuracy for one model. Performances of multimodal LLMs varied considerably across radiology subspecialties.
+%J Academic Radiology
+%A Nakaura, Takeshi
+%A Yoshida, Naofumi
+%A Kobayashi, Naoki
+%A Nagayama, Yasunori
+%A Uetani, Hiroyuki
+%A Kidoh, Masafumi
+%A Oda, Seitaro
+%A Funama, Yoshinori
+%A Hirai, Toshinori
+%D 2025-05-01
+%K Artificial Intelligence
+Large Language Models
+Diagnostic Accuracy
+Diagnostic Radiology Board Examination
+Radiology
+
